@@ -1,0 +1,120 @@
+Group A: Short Questions (2 Marks)
+
+1. Differentiate between Legibility and Readability.
+Legibility	                      Readability
+Clarity of individual letters  	Ease of reading long text
+Depends on font type & size	    Depends on spacing & layout
+Letter-level concept	        Paragraph/text-level concept
+
+2. What is the “Rule of Thirds” in layout design?
+
+The Rule of Thirds divides a page into three equal horizontal and vertical sections. Important elements placed along these lines or intersections look more balanced and attractive.
+
+3. Why should you limit the number of font families used on a website?
+
+Limiting fonts:
+
+Improves consistency
+
+Enhances readability
+
+Keeps design professional
+Best practice: Use 2–3 font families only.
+
+4. Define “Responsive Web Design.”
+
+Responsive Web Design is a design approach where a website automatically adjusts its layout and content to fit different screen sizes and devices.
+
+Group B: Long Questions (4 Marks)
+5. Explain the “F-Pattern” of scanning and its influence on content placement.
+
+Users scan web pages in an F-shaped pattern:
+
+First scan horizontally at the top
+
+Scan another horizontal line slightly lower
+
+Finally scan vertically down the left side
+
+Influence on design:
+
+Place important content at the top
+
+Keep headings and keywords on the left
+
+Use short paragraphs and bullet points
+
+6. Discuss the psychological impact of colors in web design.
+
+Colors affect user emotions and decisions.
+
+Blue: Trust, security, professionalism
+Used for: Banks, corporate websites
+
+Red: Urgency, attention, excitement
+Used for: Sales, alerts, call-to-action buttons
+
+Green: Calm, growth, positivity
+Used for: Health, education, environment sites
+
+7. Explain the “60-30-10 Rule” of color balance.
+
+The 60-30-10 Rule ensures visual harmony:
+
+60% – Primary color (background)
+
+30% – Secondary color (content areas)
+
+10% – Accent color (buttons, highlights)
+
+Group C: Scenario-Based Questions (5 Marks)
+
+8. Slow website due to high-resolution images
+
+Image Optimization is important because it:
+
+Reduces loading time
+
+Improves user experience
+
+Saves bandwidth
+
+File formats:
+
+JPEG: Best for photographs, smaller size
+
+PNG: Best for logos & transparency, larger size
+
+Solution: Compress and resize images; use JPEG for photos and PNG only when necessary.
+
+9. Law firm design critique (Color Theory & Typography)
+
+Problems:
+
+Bright yellow causes eye strain and lacks seriousness
+
+Comic Sans is informal and unprofessional
+
+Violated principles:
+
+Poor color psychology
+
+Inappropriate typography
+
+Better alternative:
+
+Colors: Navy blue, gray, or white
+
+Fonts: Serif fonts like Georgia or Times New Roman
+
+10. Website unreadable on mobile
+
+Missing Principle: Responsive Web Design
+
+Fix using:
+
+Media Queries: Apply styles based on screen size
+
+Fluid Grids: Use percentage-based widths instead of fixed pixels
+
+Result: Website adapts properly on all devices.

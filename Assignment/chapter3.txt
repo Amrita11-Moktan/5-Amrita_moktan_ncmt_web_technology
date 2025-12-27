@@ -1,0 +1,146 @@
+Group A: Short Questions (2 Marks)
+
+1. Define Information Architecture (IA).
+
+Information Architecture (IA) is the practice of organizing, structuring, and labeling website content so users can easily find and understand information.
+
+2. What is a “Wireframe”?
+
+A wireframe is a basic visual blueprint of a website that shows layout, structure, and placement of elements without design details like colors or images.
+
+3. Explain the concept of “Cognitive Friction” in web design.
+
+Cognitive friction refers to the mental effort required by users when a website is confusing, poorly organized, or difficult to navigate, causing frustration and quick exits.
+
+4. Why should URL slugs use hyphens instead of underscores?
+
+Hyphens improve readability and SEO because search engines treat hyphens as word separators, while underscores are not recognized as spaces.
+
+Group B: Long Questions (4 Marks)
+5. Compare Hierarchical (Tree) structure and Linear (Sequential) structure.
+Hierarchical Structure	Linear Structure
+Tree-like structure	    Step-by-step order
+Parent–child pages   	One page after another
+Easy to scale	        Simple but limited
+Common for large sites	Used for tutorials
+
+Examples:
+
+Hierarchical: University website (Home → Departments → Courses)
+
+Linear: Online exam or installation guide
+
+6. Explain the “Three-Click Rule” and its significance in UX design.
+
+The Three-Click Rule states that users should find any information on a website within three clicks.
+
+Significance:
+
+Reduces user frustration
+
+Improves navigation efficiency
+
+Enhances user satisfaction
+
+Lowers bounce rate
+
+7. “Plan before you do.” Explain how Card Sorting and Flowcharts help.
+
+Card Sorting:
+
+Users group content logically
+
+Helps designers understand user thinking
+
+Improves menu structure
+
+Flowcharts:
+
+Show page flow and navigation paths
+
+Help visualize user journey
+
+Prevent navigation confusion
+
+Conclusion: These tools ensure a clear and user-friendly website structure before development.
+
+Group C: Scenario-Based Questions (5 Marks)
+8. University website structure – Choice and justification
+
+Chosen Model: Hierarchical (Tree) Structure
+
+Justification:
+
+Handles large number of pages
+
+Easy navigation for users
+
+Logical grouping of content
+
+Scalable for future expansion
+
+Rough Diagram:
+
+Home
+ ├── Admissions
+ ├── Departments
+ │     ├── Science
+ │     ├── Management
+ ├── Alumni
+ ├── News
+
+9. Navigation hidden behind icon – KISS principle analysis
+
+Problem:
+
+Navigation menu hidden on desktop
+
+Users cannot find it quickly
+
+Violation of KISS Principle:
+
+Design is unnecessarily complex
+
+Important elements should be visible
+
+Desktop users expect visible menus
+
+Result:
+
+Increased cognitive friction
+
+Higher bounce rate
+
+Solution:
+
+Use clear, visible navigation
+
+Keep design simple and intuitive
+
+10. Poor URL structure – SEO and usability analysis
+
+Problems with URL:
+www.shop.com/prod?id=55&cat=9
+
+Issues:
+
+Hard to understand for users
+
+Not SEO-friendly
+
+No meaningful keywords
+
+Difficult to remember or share
+
+Better URL using Page Slugs:
+www.shop.com/electronics/mobile-phones
+
+Benefits:
+
+User-friendly
+
+Improves SEO
+
+Clear content meaning
+
+Higher click-through rates

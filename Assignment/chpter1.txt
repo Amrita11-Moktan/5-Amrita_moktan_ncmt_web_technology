@@ -1,0 +1,147 @@
+Group A: Short Questions (2 Marks)
+
+1. Define the term “Protocol” in the context of the Internet.
+
+A protocol is a set of rules and standards that define how data is transmitted and received over the Internet so that different devices can communicate correctly.
+Example: HTTP, TCP/IP.
+
+2. What is the primary difference between a Web Browser and a Search Engine?
+
+A Web Browser is software used to access and view websites (e.g., Chrome, Firefox).
+
+A Search Engine is a service used to search information on the web (e.g., Google, Bing).
+
+3. Define the World Wide Web (WWW).
+
+The World Wide Web (WWW) is a system of interlinked web pages and resources accessed over the Internet using web browsers and identified by URLs.
+
+4. Distinguish between a static web page and a dynamic web page.
+Static Web Page	Dynamic Web Page
+Content is fixed	    Content changes
+Same for all users  	Different for users
+Uses HTML only	        Uses HTML + scripting
+Low maintenance	        Requires server processing
+
+Group B: Long Questions (4 Marks)
+
+5. Explain the client-server architecture of the web with a neat diagram.
+
+The client-server architecture is a model where:
+
+The client (web browser) sends a request.
+
+The server processes the request and sends back a response.
+
+Example: Browser requests a webpage → Web server sends the webpage.
+
+Diagram:
+
+Client (Browser)
+       |
+       | Request (HTTP)
+       v
+Server (Web Server)
+       |
+       | Response (Web Page)
+       v
+Client (Browser)
+
+6. Describe the functions of the following Internet services:
+a) Email
+
+Used to send and receive electronic messages.
+
+Supports text, images, and attachments.
+
+Example: Gmail, Outlook.
+
+b) FTP (File Transfer Protocol)
+
+Used to upload and download files between computers.
+
+Commonly used for website file transfer.
+
+c) VoIP (Voice over Internet Protocol)
+
+Allows voice communication over the Internet.
+
+Example: Skype, WhatsApp calls.
+
+7. “The Internet is a network of networks.” Elaborate explaining packet switching.
+
+The Internet connects millions of smaller networks globally, making it a network of networks.
+
+Packet Switching:
+
+Data is broken into small packets.
+
+Each packet travels independently through different paths.
+
+Packets are reassembled at the destination.
+
+Advantages:
+
+Faster transmission
+
+Efficient use of network
+
+Fault tolerant
+
+Group C: Scenario-Based Questions (5 Marks)
+
+8. Startup website scenario – Static vs Dynamic
+
+As a consultant, I would not agree with using a dynamic website.
+
+Justification:
+
+The company needs same information for all users.
+
+Low maintenance and low cost are required.
+
+Static websites are:
+
+Cheaper
+
+Faster
+
+More secure
+
+Easier to host
+
+Conclusion: A static website is the best choice.
+
+9. Google domain not working but IP works – Diagnose the problem
+
+Problem:
+The issue is with the DNS (Domain Name System).
+
+Explanation:
+
+DNS converts domain names (www.google.com
+) into IP addresses.
+
+Since accessing the site via IP works, the server is reachable.
+
+DNS failed to resolve the domain name.
+
+Underlying Technology Failed: DNS service
+
+10. Sharing sensitive data with suppliers – Network type
+
+The company should use an Extranet.
+
+Reason:
+
+Extranet allows controlled access to external users (suppliers).
+
+Data remains private and secure.
+
+Not accessible to the general public.
+
+Conclusion:
+
+Network Type	Purpose
+Intranet	Internal employees
+Extranet	Trusted external partners
+Internet	Public access

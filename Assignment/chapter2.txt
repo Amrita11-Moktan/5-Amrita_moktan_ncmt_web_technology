@@ -1,0 +1,148 @@
+Group A: Short Questions (2 Marks)
+
+1. Define the term “Sitemap” in the planning phase.
+
+A sitemap is a structured outline or diagram that shows all the pages of a website and their relationships, helping in planning navigation and content organization.
+
+2. What is the purpose of the “Launch” phase in web development?
+
+The Launch phase involves making the website live on the Internet after final testing, configuration, and deployment so users can access it.
+
+3. Why is “Documentation” important in the development lifecycle?
+
+Documentation helps developers understand, maintain, update, and troubleshoot the website in the future, especially when team members change.
+
+4. Differentiate between Front-end and Back-end development.
+Front-end Development	Back-end Development
+User interface	        Server-side logic
+Visible to users	    Hidden from users
+Uses HTML, CSS, JS	    Uses PHP, Python, DB
+Focuses on design	    Focuses on data
+
+Group B: Long Questions (4 Marks)
+
+5. “Planning is the most critical phase of web development.” Discuss.
+
+Planning is the foundation of a successful website. Mistakes at this stage affect the entire project.
+
+Key activities in the Planning phase:
+
+Defining website goals and objectives
+
+Identifying target audience
+
+Creating sitemap and navigation structure
+
+Deciding technologies and resources
+
+Setting budget and timeline
+
+Conclusion: Proper planning reduces errors, saves time, and ensures client satisfaction.
+
+6. Explain the iterative nature of the Maintenance phase. Why is a website never truly “finished”?
+
+The Maintenance phase is continuous and repetitive (iterative).
+
+Reasons:
+
+Content needs regular updates
+
+Bugs and security issues must be fixed
+
+Technology and browsers evolve
+
+User requirements change
+
+Conclusion: Since websites must adapt to changes, they are never truly “finished.”
+
+7. Describe the process of “Information Gathering.” Why is understanding the target audience crucial?
+
+Information Gathering is the first step where requirements are collected from clients and stakeholders.
+
+Activities include:
+
+Client interviews
+
+Requirement analysis
+
+Market research
+
+Understanding goals and competitors
+
+Importance of target audience:
+
+Helps design user-friendly interfaces
+
+Ensures relevant content
+
+Improves user engagement and satisfaction
+
+Group C: Scenario-Based Questions (5 Marks)
+
+8. Persuasive argument against skipping the Testing phase
+
+Skipping the Testing phase is risky and may cost more in the long run.
+
+Potential Risks:
+
+1. Security Risks
+
+Vulnerabilities may allow hacking
+
+Customer data may be exposed
+
+2. Functionality Issues
+
+Broken links
+
+Payment failures
+
+Form submission errors
+
+3. Compatibility Problems
+
+Website may not work on all browsers/devices
+
+Conclusion: Testing ensures reliability, security, and user trust. Skipping it may damage reputation and revenue.
+
+9. Developer started coding without design or sitemap – Analysis
+
+What went wrong:
+
+No proper planning or design phase
+
+No sitemap or wireframe
+
+Client expectations were not documented
+
+Consequences:
+
+Layout mismatch
+
+Time and effort wasted
+
+Client dissatisfaction
+
+Correct approach:
+
+Conduct planning and information gathering
+
+Create sitemap and design prototype
+
+Get client approval before coding
+
+10. Outdated exam schedules – Neglected phase
+
+The Maintenance phase was neglected.
+
+Activities involved in Maintenance phase:
+
+Updating content (exam schedules, notices)
+
+Fixing errors and broken links
+
+Improving performance and security
+
+Regular monitoring
+
+Conclusion: Regular maintenance keeps the website useful, reliable, and engaging for users.
